@@ -130,4 +130,3 @@ dmypy.json
 
 # Node
 **/node_modules
-./javascript/node_modules
